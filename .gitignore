@@ -1,0 +1,44 @@
+# Ignore list for Eagle, a PCB layout tool
+
+# Backup files
+*.zip
+
+# Excel
+*.xls
+
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
+
+# Altium extra project files
+*.prjpcbstructure
+_Previews/*
+*/_Previews/*
+History/*
+Pictures/
+"Project Logs for 5VPointofloadPSU"/*
+
+
+*.dri
+*.drl
+*.gpi
+*.pls
+
+*.drd
+*.drd.*
+
+
+*/Gerber/__Previews/
+*/NC Drill/__Previews/
+*/__Previews/
+__Previews/
+
+History/*
