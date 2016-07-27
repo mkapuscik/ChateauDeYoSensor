@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:07:40 AM On 10/30/2015
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ESPMovementDetector.PrjPCB]
+   Generated File[Bill of Materials-ESPMovementDetector.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:07:42 AM On 10/30/2015

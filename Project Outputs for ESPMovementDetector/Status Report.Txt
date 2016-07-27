@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Variant [[No Variations]] of Project [ESPMovementDetector.PrjPCB]
+   Generated File[ESPMovementDetector.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:34:30 PM On 12/11/2015

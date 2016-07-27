@@ -1,0 +1,48 @@
+Loading settings for: 'EGX-350'
+DrillHoles: spot
+MaxX: 30500
+MaxY: 23000
+MaxZ: 4000
+XYSpeed: 5
+ZSpeed: 5
+MillRPM: 10000
+MillDepth: 10
+ClearDepth: 1000
+DrillDepth: 300
+Offset(X,Y): 5,5mm
+
+ExportMillFiles
+RML_ExportMillLayerData
+SetRefPointForLayer(TopLayer)
+ ... using point 46,40 as ZeroPoint
+Exporting pre route commands
+Spot drilling holes
+MakeNewPolygon: '__TempOutlinePolygon' on Layer 'TopLayer'
+RML_ExportPolygonOutline(__TempOutlinePolygon)
+Exporting polygon contour
+RML_ExportPolygonOutline(Vreg Pour)
+Exporting polygon contour
+RML_ExportPolygonOutline(Top-No Net 1)
+Exporting polygon contour
+RML_ExportPolygonOutline(Top-No Net 1)
+Exporting polygon contour
+RML_ExportPolygonOutline(Top-No Net 1)
+Exporting polygon contour
+RML_ExportPolygonOutline(Top-No Net 1)
+Exporting polygon contour
+RML_ExportPolygonOutline(Top-No Net 1)
+Exporting polygon contour
+RML_ExportPolygonOutline(Top-No Net 1)
+Exporting polygon contour
+TopLayer routing file written to C:\Users\mike\Dropbox\Altium Workspace\ESP Movement Detector\ESPMovementDetector_EGX-350_TopLayer.mdt
+RML_ExportMillLayerData
+SetRefPointForLayer(BottomLayer)
+ ... using point 351,40 as ZeroPoint
+Exporting pre route commands
+MakeNewPolygon: '__TempOutlinePolygon' on Layer 'BottomLayer'
+RML_ExportPolygonOutline(__TempOutlinePolygon)
+Exporting polygon contour
+RML_ExportPolygonOutline(Bottom GND)
+Exporting polygon contour
+BottomLayer routing file written to C:\Users\mike\Dropbox\Altium Workspace\ESP Movement Detector\ESPMovementDetector_EGX-350_BottomLayer.mdt
+SUCCESS
